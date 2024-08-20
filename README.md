@@ -187,14 +187,14 @@ Querying works as outlined above for local testing.
 
 ## Latest deployment
 
-### Mainnet
+### Mainnet (lils)
 
 | Contract      | Address                                                                                                               |
 | ------------- | --------------------------------------------------------------------------------------------------------------------- |
-| StreamFactory | [0x0fd206FC7A7dBcD5661157eDCb1FFDD0D02A61ff](https://etherscan.io/address/0x0fd206FC7A7dBcD5661157eDCb1FFDD0D02A61ff) |
-| Stream        | [0x0b9dFf1aba32A9fa95011C7f097ec672F689038F](https://etherscan.io/address/0x0b9dFf1aba32A9fa95011C7f097ec672F689038F) |
+| StreamFactory | [0xb2fFEEF1F68CfacDeFdAFe6F1a9D30Ff47C7cB5e](https://etherscan.io/address/0xb2fFEEF1F68CfacDeFdAFe6F1a9D30Ff47C7cB5e) |
+| Stream        | [0x780268514e532F296b9Bf47D7c5EE515b24f8872](https://etherscan.io/address/0x780268514e532F296b9Bf47D7c5EE515b24f8872) |
 
-### Goerli
+### Goerli (nouns)
 
 | Contract      | Address                                                                                                                      |
 | ------------- | ---------------------------------------------------------------------------------------------------------------------------- |
